@@ -14,7 +14,7 @@ Este no es un curso cualquiera, estás ante un máster completo en el que aprend
 La metodología de aprendizaje es la ideal:
 
 - Todo explicado desde cero y paso a paso.
-- Decenas de temas a detalle (... y subiendo).
+- Decenas de temas a detalle (_... y subiendo_).
 - Cientos de prácticas y ejercicios.
 - Orden lógico y progresivo, diseñado para interiorizar todos los conocimientos tanto si sabes programar como si no.
 - Además te estaré ayudando cuando tengas cualquier duda o problema.
@@ -36,4 +36,4 @@ Si quieres aprender desarrollo web completo, moderno y profesional con PHP sin d
 
 Échale un vistazo al máster para ver todos temas que vamos a tratar:
 
-[Apúntate, invierte bien tu tiempo para tu futuro y multiplica tus posibilidades laborales 😉](https://github.com/byte-zone/curso-master-php/wiki)
+[Comienza, inviertiendo bien el tiempo para tu futuro y multiplica tus posibilidades laborales 😉](https://github.com/byte-zone/curso-master-php/wiki)
