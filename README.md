@@ -36,4 +36,4 @@ Si quieres aprender desarrollo web completo, moderno y profesional con PHP sin d
 
 Échale un vistazo al máster para ver todos temas que vamos a tratar:
 
-[Comienza, inviertiendo bien el tiempo para tu futuro y multiplica tus posibilidades laborales 😉](https://github.com/byte-zone/curso-master-php/wiki)
+[Comienza, inviertiendo bien el tiempo para tu futuro y multiplica tus posibilidades laborales 😉](https://github.com/real-soft/master-php/wiki)
